@@ -5,5 +5,5 @@
 https://grafana.wiedmer-electro.ch/public-dashboards/70975251fda04883984d7cdfec4fb64b?orgId=1
 
 ## subprojects
-https://github.com/toniw12/multisensor
+https://github.com/toniw12/multisensor  
 https://github.com/toniw12/cinterSensor
