@@ -10,12 +10,12 @@ The recognition of global change impacts on catchments and the waters they drain
 To design, build and optimize a DIY multi-sensor platform for monitoring hydrological
 and biogeochemical dynamics in fluvial ecosystems and their adjacent soils. This
 project revolves around these pillars:
-• Using self-made, low-cost solutions to make it more afordable to everyone.
-• Adopting the open source hardware phylosphy so that the broad community
+> * Using self-made, low-cost solutions to make it more afordable to everyone.
+> * Adopting the open source hardware phylosphy so that the broad community
 can freely use or modify the components to adapt them to their own needs.
-• Using open source hosting services for software development to ensures the
+> * Using open source hosting services for software development to ensures the
 re-usability of the code.
-• Using open source web applications for interactive visualization.
+> * Using open source web applications for interactive visualization.
 
 ## live data visualisation
 https://grafana.wiedmer-electro.ch/public-dashboards/70975251fda04883984d7cdfec4fb64b?orgId=1
