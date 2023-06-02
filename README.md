@@ -1,5 +1,4 @@
 # Multisensor platform
-<img src="https://github.com/toniw12/Multisensor_platform/blob/608ee89d3ea8dab07134d31d0e0e13338db85604/Graphics/Soil%20cut.png">
 
 <img src="Graphics/Soil cut.png">
 
