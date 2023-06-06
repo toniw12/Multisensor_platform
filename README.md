@@ -23,7 +23,12 @@ re-usability of the code.
  * Using open source web applications for interactive visualization.
 
 ## live data visualisation
-https://grafana.wiedmer-electro.ch/public-dashboards/70975251fda04883984d7cdfec4fb64b?orgId=1
+
+The data visualization is based on [Grafana](https://grafana.com/)
+
+[Molières](https://grafana.wiedmer-electro.ch/public-dashboards/70975251fda04883984d7cdfec4fb64b?orgId=1)
+
+[AT44 - Contraix](https://grafana.wiedmer-electro.ch/public-dashboards/f5b1c5ff5e49460bbac586304dbef0a0)
 
 ## subprojects
 https://github.com/toniw12/multisensor  
