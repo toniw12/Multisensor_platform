@@ -1,3 +1,6 @@
+:heavy_exclamation_mark: Please note that the documentation is very basic, please send me a e-mail for the part you are interested on and I will imporove the documentation
+[Contact Me](mailto:a.wiedmer@creaf.uab.cat)
+
 # Multisensor platform
 
 <img src="Graphics/Soil cut.png">
