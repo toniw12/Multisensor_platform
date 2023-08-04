@@ -30,7 +30,7 @@ The data visualization is based on [Grafana](https://grafana.com/)
 
 [AT44 - Contraix](https://grafana.wiedmer-electro.ch/public-dashboards/f5b1c5ff5e49460bbac586304dbef0a0)
 
-[AT50 - Contraix](http://localhost:3000/public-dashboards/b03a083f87394cc8b2873735f8f8a301)
+[AT50 - Contraix](https://grafana.wiedmer-electro.ch/public-dashboards/b03a083f87394cc8b2873735f8f8a301)
 
 ## subprojects
 https://github.com/toniw12/multisensor  
